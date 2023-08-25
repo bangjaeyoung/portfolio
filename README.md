@@ -11,7 +11,7 @@
 ## :pushpin: Contact
 - 이메일: qkdwo4613@gmail.com
 - 블로그: https://jaeyoungb.tistory.com
-- 깃헙: https://github.com/bangjaeyoung
+- 깃허브: https://github.com/bangjaeyoung
 
 </br>
 
@@ -22,7 +22,8 @@
 >  
 >기술 스택:  
 >Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL /   
+>H2 / MySQL / JUnit5 / Mockito / WebSocket / Redis / WebClient   
+>AWS EC2 / AWS RDS   
 >  
 >[프로젝트 상세 설명](https://github.com/bangjaeyoung/gyul-box) 참고
 
@@ -34,7 +35,7 @@
 >  
 >기술 스택:  
 >Java 11 / Spring Boot / Gradle / Spring Data JPA  
->H2 / MySQL /   
+>H2 / MySQL   
 >  
 >[프로젝트 상세 설명](https://github.com/bangjaeyoung/stock-box) 참고
 
@@ -46,6 +47,6 @@
 >  
 >기술 스택:  
 >Java 11 / Spring Boot / Gradle / Spring Data JPA   
->H2 / MySQL /   
+>H2 / MySQL / JUnit5 / Mockito / Spring REST Docs  
 >  
 >[프로젝트 상세 설명](https://github.com/codestates-seb/seb41_pre_017) 참고
