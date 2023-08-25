@@ -49,4 +49,4 @@
 >Java 11 / Spring Boot / Gradle / Spring Data JPA   
 >H2 / MySQL / JUnit5 / Mockito / Spring REST Docs  
 >  
->[프로젝트 상세 설명](https://github.com/codestates-seb/seb41_pre_017) 참고
+>[프로젝트 상세 설명](https://github.com/bangjaeyoung/stack-overflow-clone) 참고
